@@ -1,0 +1,18 @@
+﻿  FunkVisualiser.cpp
+c:\users\adam\source\repos\madematics\madematics\set.h(13): warning C4091: 'extern ': ignored on left of 'SetBorder' when no variable is declared
+c:\users\adam\source\repos\madematics\madematics\funkvisualiser.h(17): warning C4091: 'extern ': ignored on left of 'FunkVisualisable' when no variable is declared
+c:\users\adam\source\repos\madematics\madematics\funkvisualiser.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\source\repos\madematics\madematics\funkvisualiser.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\source\repos\madematics\madematics\funkvisualiser.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\source\repos\madematics\madematics\funkvisualiser.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\source\repos\madematics\madematics\funkvisualiser.cpp(84): warning C4018: '<': signed/unsigned mismatch
+  LinearTransformation.cpp
+c:\users\adam\source\repos\madematics\madematics\lineatransformation.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Madematics.cpp
+c:\users\adam\source\repos\madematics\madematics\set.h(13): warning C4091: 'extern ': ignored on left of 'SetBorder' when no variable is declared
+c:\users\adam\source\repos\madematics\madematics\funkvisualiser.h(17): warning C4091: 'extern ': ignored on left of 'FunkVisualisable' when no variable is declared
+c:\users\adam\source\repos\madematics\madematics\lineatransformation.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\adam\source\repos\madematics\madematics\madematics.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\source\repos\madematics\madematics\madematics.cpp(127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Madematics.vcxproj -> C:\Users\Adam\source\repos\Madematics\Debug\Madematics.exe
